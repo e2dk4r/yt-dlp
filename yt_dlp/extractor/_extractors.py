@@ -2067,6 +2067,10 @@ from .tenplay import (
     TenPlaySeasonIE,
 )
 from .testurl import TestURLIE
+from .teve2 import (
+    Teve2EpisodeIE,
+    Teve2PlaylistIE,
+)
 from .tf1 import TF1IE
 from .tfo import TFOIE
 from .theguardian import (
